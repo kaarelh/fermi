@@ -1,0 +1,16 @@
+In 2022, what was the volume (in m^3) of the largest lake by volume?
+7.82e+13
+3 doubling
+geography
+In 2019, what was the total value (in 2019 USD) of all property reported stolen in the US?
+1.33e+10
+3 doubling
+economics
+What is (the absolute value of) the difference (in seconds) between 24 hours and the time it takes the Earth to make one full rotation (w.r.t. an inertial reference frame) on its axis?
+2.36e+2
+1 doubling
+astronomy
+How many people (i.e. homines sapientes) have ever been born?
+1.17e+11
+2 doubling
+anthropology
